@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.vytrack.runners.FailedRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.93 s <<< FAILURE! - in com.vytrack.runners.FailedRunner
+Verify warning message for invalid credentials(Login)  Time elapsed: 3.823 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Invalid user name[]> but was:<Invalid user name[ or password.]>
+
